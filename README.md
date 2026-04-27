@@ -1,5 +1,9 @@
 # 🛡️ Cityfine - AI Traffic Violation Detection System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://citifine-project.vercel.app)
+
+🌐 **Live Demo:** [https://citifine-project.vercel.app](https://citifine-project.vercel.app)
+
 Cityfine is a full-stack web application that uses Artificial Intelligence to automatically detect traffic violations from images and videos. It empowers citizens to report violations like helmetless riding, triple riding, and overspeeding, complete with GPS tracking and an automated trust-score verification system.
 
 ---
